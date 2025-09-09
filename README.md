@@ -4,6 +4,9 @@
 This Power BI project provides a **comprehensive view of sales, customer behavior, and product performance** for AdventureWorks.  
 The dashboards help management monitor **revenue growth, customer value, returns, and refunds**, while identifying areas for optimization through **what-if analysis and root cause analysis**.
 
+<img width="1350" height="564" alt="Screenshot 2025-09-09 035221" src="https://github.com/user-attachments/assets/2ec26a34-85b5-43f0-b615-9724631c1a4f" />
+
+
 <img width="639" height="361" alt="Screenshot 2025-09-07 183655" src="https://github.com/user-attachments/assets/8db59837-36a2-48ae-81e2-ec40576407bb" />
 
 
